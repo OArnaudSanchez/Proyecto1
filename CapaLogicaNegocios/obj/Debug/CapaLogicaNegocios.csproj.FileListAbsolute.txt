@@ -1,0 +1,6 @@
+C:\Users\Administradorr\source\repos\Proyecto1\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Administradorr\source\repos\Proyecto1\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Administradorr\source\repos\Proyecto1\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+C:\Users\Administradorr\source\repos\Proyecto1\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Administradorr\source\repos\Proyecto1\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\Administradorr\source\repos\Proyecto1\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
